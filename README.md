@@ -1,2 +1,2 @@
 # Darey.io_Projects
-This repository contains all my documented projects carried out on the Darey.io platform, during the my DevOps learning program. Here you would get an insight to the information and knowledge obtained during the program. Basically, it is a general collection of my fundarmental tech activities embarked on in my DevOps training.
+This repository contains all my documented projects carried out on the Darey.io platform, during my DevOps learning program. Here you would get an insight to the information and knowledge obtained during the program. Basically, it is a general collection of my fundarmental tech activities embarked on in my DevOps training.
